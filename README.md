@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Easton-F
-- 👀 I’m interested in Gaming
+- 👀 I’m interested in Gaming and Game Developement
 - 🌱 I’m currently learning Coding at BloomTech
 - 💞️ I’m looking to collaborate on anything
+- 💻 Languages: JavaScript, HTML, CSS
 - 📫 Reach me at easton.fritsch21@gmail.com
 
 <!---
