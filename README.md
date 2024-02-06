@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Easton-F
-- 👀 I’m interested in Gaming and Game Developement
-- 🌱 I’m currently learning Full Stack Dev at BloomTech
+- 👀 I’m interested in Web and Software Developement
+- 🌱 I graduated from Bloomtech Institue of Technology
 - 💞️ I’m looking to collaborate on anything
-- 💻 Languages: JavaScript, HTML, CSS
+- 💻 Languages: JavaScript, HTML, CSS, React
 - 📫 Reach me at easton.fritsch21@gmail.com
 
 <!---
